@@ -23,7 +23,7 @@
 
 
 ## Git: What makes it unique?
-![](img/git_structure.png)
+![](img/git_structure.jpg)
 
 
 ## Git: What makes it unique?
@@ -36,7 +36,6 @@
 - Quick to create
 - Quick to swap between
 - Have as many as you want!
-
 
 
 ## Github
@@ -120,7 +119,7 @@
 # Git Commit
 
 
-# Git Commit
+## Git Commit
 - ```git commit -m "[your commit message]```
 - Moves your change from the staging area to the repository
 - If the -m is not there it will open in a default editor (most likely vim 😍)
@@ -132,7 +131,7 @@
 # Git Status
 
 
-# Git Status
+## Git Status
 - ```git status```
 - Lists all the files you want to commit
 - Look around and see beans in your pan, in the tin or both
@@ -143,8 +142,19 @@
 # Git Checkout
 
 
+## Git Checkout
+- ```git checkout -b <branch name>```
+- Create a new branch called `<branch name>`
+- ```git checkout <branch name>```
+- Changes to the existing branch called `<branc name>`
+- Swap to a different tin of beans
+
+
 
 # Git Push
+
+
+## Git push
 - ```git push```
 - Sends all commits and new branches that aren't currently on the remote to the remote
 - Ship your tin of beans to a warehouse
@@ -189,7 +199,7 @@
 <!-- .element: class="fragment" -->
 
 
-## Git reset
+## Git reset HARD
 - ```git reset --hard HEAD```
 - Un-stage everything
 - Throw the tin of beans into lava. Its gone forever.
@@ -205,3 +215,35 @@
 - Creates a new commit that changes files back into their state at specified commit
 - Throw your current beans out the window and scoop your old ones out the bin
 <!-- .element: class="fragment" -->
+
+
+
+# GitHub Desktop
+
+
+## Git UI
+- E.g. Github Desktop, Git kraken
+- These are things
+- Simplifies using git by hiding what commands are performed
+- Maybe a good way to learn
+
+
+
+# And now...
+# Stuff!
+<!-- .element: class="fragment" -->
+
+
+
+# Other resources
+
+
+## Other resources
+- https://www.keycdn.com/blog/git-cheat-sheet
+- https://duct.me/clgit
+- https://ohshitgit.com/
+- https://hellowebbooks.com/learn-git/ <- (You have to sign up but get a nice little book)
+
+
+
+##### kthxbye
