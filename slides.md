@@ -47,6 +47,22 @@
 
 
 
+# Analogies!
+
+
+## Analogies
+- Very bean related
+- Think of being in a kitchen
+<!-- .element: class="fragment" -->
+- You have a shelf with beans
+<!-- .element: class="fragment" -->
+- You have a pan where you are currently working
+<!-- .element: class="fragment" -->
+- You have an infinite ammount of tins
+<!-- .element: class="fragment" -->
+
+
+
 # Git Config
 
 
@@ -88,7 +104,7 @@
 ## Git Clone
 - ```git clone [url]```
 - Retrieve an existing repository from an existing url
-- Having someone else's tin sent to you
+- Having someone clone a tin and get it sent sent to you
 <!-- .element: class="fragment" -->
 
 
@@ -148,6 +164,7 @@
 - ```git checkout <branch name>```
 - Changes to the existing branch called `<branc name>`
 - Swap to a different tin of beans
+<!-- .element: class="fragment" -->
 
 
 
