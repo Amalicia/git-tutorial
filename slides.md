@@ -235,6 +235,16 @@
 
 
 
+# Ignore
+
+
+## .gitignore 
+- This is a file you can include
+- Useful for removing files produced my IDE's
+- Also useful for removing files you don't want to share
+
+
+
 # GitHub Desktop
 
 
